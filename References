@@ -1,0 +1,16 @@
+Good for Test
+https://www.freecodecamp.org/news/unit-testing-services-endpoints-and-repositories-in-spring-boot-4b7d9dc2b772/
+https://spring.io/guides/gs/testing-web/
+https://dev.to/pmgysel/simple-working-example-of-rest-web-service-with-spring-boot-4plo
+https://www.mscharhag.com/spring/clean-mock-mvc-tests
+https://rieckpil.de/guide-to-testing-spring-boot-applications-with-mockmvc/
+
+Run from console
+https://morioh.com/p/b8d8ab74dcab
+mvn spring-boot:runs
+
+Validations
+https://newbedev.com/error-in-java-import-statement-the-import-javax-validation-constraints-notnull-cannot-be-resolved
+
+Log
+https://www.baeldung.com/spring-boot-logging
